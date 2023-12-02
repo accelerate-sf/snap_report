@@ -23,3 +23,9 @@ Car break-ins are a persistent issue for San Francisco residents and visitors. R
 - What mechanisms will be put in place to ensure the integrity and quality of the uploaded images and videos?
 - How will you handle data storage, especially considering the sensitive nature of the reports and the potentially large volumes of media uploads?
 - In what ways can this new platform be integrated or interfaced with other police or city systems for seamless data sharing and timely responses?
+
+## Example Hackathon Projects
+* https://devpost.com/software/snap-report-humanizing-and-simplifying-crime-reporting
+* https://devpost.com/software/platematch
+* https://devpost.com/software/snap-go-improve-311-using-generative-ai
+
